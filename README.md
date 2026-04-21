@@ -4,6 +4,7 @@ A hands-on implementation of Bayesian inference using the Beta-Binomial model to
 
 ## 📌 Overview
 This project demonstrates how Bayesian inference updates beliefs as data is observed.
+Bayesian parameter estimation with conjugate priors, sequential updating, and prior sensitivity analysis using scipy.stats
 
 We model:
 - Prior beliefs using Beta distributions
